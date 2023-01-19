@@ -10,6 +10,7 @@ import Firebase
 import FirebaseAuth
 import FirebaseCore
 
+
 class RegViewController: UIViewController {
 
 
