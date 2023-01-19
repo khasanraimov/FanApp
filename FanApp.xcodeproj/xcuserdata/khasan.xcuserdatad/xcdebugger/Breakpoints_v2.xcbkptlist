@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96CEC31A-3001-4EEA-96CF-4CF8704604D8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CBA3702-46FF-474E-A169-B1D9556C9865"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FanApp/RegViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "RegViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0CBA3702-46FF-474E-A169-B1D9556C9865 - 874cdfc1b99bdffd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FanApp.RegViewController.dataBirthField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "FanApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khasan/Desktop/fanapp/FanApp/FanApp/RegViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "0CBA3702-46FF-474E-A169-B1D9556C9865 - 98224f431c4deb81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FanApp.RegViewController.dataBirthField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "FanApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khasan/Desktop/fanapp/FanApp/FanApp/RegViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "0CBA3702-46FF-474E-A169-B1D9556C9865 - bafd09a9d542b54d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FanApp.RegViewController.dataBirthField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "FanApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khasan/Desktop/fanapp/FanApp/FanApp/RegViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0CBA3702-46FF-474E-A169-B1D9556C9865 - e24a52980fb3379"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FanApp.RegViewController.dataBirthField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FanApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khasan/Desktop/fanapp/FanApp/FanApp/RegViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "0CBA3702-46FF-474E-A169-B1D9556C9865 - 803af79b0b132f67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FanApp.RegViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FanApp.RegViewController"
+                  moduleName = "FanApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khasan/Desktop/fanapp/FanApp/FanApp/RegViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "0CBA3702-46FF-474E-A169-B1D9556C9865 - a9c4c822a785f09b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FanApp.RegViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FanApp.RegViewController&gt;"
+                  moduleName = "FanApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/khasan/Desktop/fanapp/FanApp/FanApp/RegViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "237">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAD3BFA6-392E-4191-8FBF-6DE4E76D0C87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FanApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
