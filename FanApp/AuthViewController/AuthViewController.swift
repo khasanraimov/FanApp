@@ -25,9 +25,9 @@ class AuthViewController: UIViewController {
     @IBOutlet weak var passwordField: UITextField!
     @IBOutlet weak var enterButton: UIButton!
     @IBAction func didRegButton(_ sender: Any) {
-//        let regstoryboard = UIStoryboard(name: "RegViewController", bundle: nil)
-//        let regviewcontroller = regstoryboard.instantiateViewController(withIdentifier: "RegViewController") as! RegViewController
-//        present(regviewcontroller, animated: true)
+        let regstoryboard = UIStoryboard(name: "RegViewController", bundle: nil)
+        let regviewcontroller = regstoryboard.instantiateViewController(withIdentifier: "RegViewController") as! RegViewController
+        present(regviewcontroller, animated: true)
     }
     override func viewDidLoad() {
         super.viewDidLoad()
